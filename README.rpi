@@ -47,7 +47,7 @@ is built:
 	BUILD_CPU_DEMOS
 	BUILD_EXTRAS
 	BUILD_OPENGL3_DEMOS
-	UNIT_TESTS
+	BUILD_UNIT_TESTS
 
 Then compile and install:
 
